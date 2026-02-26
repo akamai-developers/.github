@@ -2,7 +2,7 @@
 
 Welcome to the place for builders who push the edge of what’s possible.
 
-If you’re exploring what comes next in AI, LLM-powered experiences, cloud-native systems, serverless architectures, and WebAssembly, you’re in the right community.
+If you’re exploring what comes next in AI, LLMs, cloud-native systems, serverless architectures, and WebAssembly, you’re in the right community.
 
 At **Akamai Developers**, we share practical code, reference implementations, and experiments that help developers move from idea to production faster.
 
@@ -15,7 +15,7 @@ At **Akamai Developers**, we share practical code, reference implementations, an
 
 ## Why This Community Exists
 
-Technology moves fast. The edge moves faster.
+Technology moves fast.
 
 This organization is our home for open collaboration, where developers can learn, test ideas, and build the future together.
 
