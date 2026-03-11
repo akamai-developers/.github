@@ -25,6 +25,7 @@ This organization is our home for open collaboration, where developers can learn
 - Watch and star projects you care about
 - Open issues and share ideas
 - Contribute improvements through pull requests
+- Create an [Akamai Cloud account here](http://login.linode.com/signup?promo=akm-dev-git-300-31126-M055) (we have a $300 credit just for you) 
 
 ## Build With Us
 
